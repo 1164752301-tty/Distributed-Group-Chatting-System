@@ -1,4 +1,5 @@
 # Frontend - Client application
+## This part of work is finished by my teammate, you'll need this for a full experience of weechat application.
 
 ## To run the application, you need Node.js installed in your computer
 
